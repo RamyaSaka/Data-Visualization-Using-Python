@@ -1,18 +1,15 @@
 # Data-Visualization-Using-Python
 
 
-In this project, we are analyzing the performance of US domestic airline flights to improve flight reliability thereby improving customer reliability.
-
-Below are the key report items,
-
-Yearly airline performance report 
-Yearly average flight delay statistics
+In this project, we are analyzing the **performance of US domestic airline flights** to improve flight reliability thereby improving customer reliability.
+The key report items are **Yearly airline performance report** and **Yearly average flight delay statistics**.
 
 
-Skills Networks Labs environment - Theia IDE
+<h1> Software Used </h1>
 
-Components of the report items
-Yearly airline performance report
+1. Programming Language - Python
+2. Environment - Skills Networks Labs environment (Theia IDE) on Visual Studio Code
+
 
 For the chosen year provide,
 
